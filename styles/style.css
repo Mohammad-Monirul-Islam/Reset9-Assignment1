@@ -309,7 +309,7 @@ footer{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    height: 90px;
+    height: 85px;
 }
 .left-section h3{
     font-size:20px;
